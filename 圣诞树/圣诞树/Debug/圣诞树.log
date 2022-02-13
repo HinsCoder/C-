@@ -1,0 +1,6 @@
+﻿  圣诞树源.cpp
+C:\Users\Hans\source\repos\圣诞树\圣诞树\圣诞树源.cpp(25,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\圣诞树\圣诞树\圣诞树源.cpp(33,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\圣诞树\圣诞树\圣诞树源.cpp(47,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Hans\source\repos\圣诞树\圣诞树\圣诞树源.cpp(51,7): warning C4305: “参数”: 从“double”到“float”截断
+  圣诞树.vcxproj -> C:\Users\Hans\source\repos\圣诞树\Debug\圣诞树.exe

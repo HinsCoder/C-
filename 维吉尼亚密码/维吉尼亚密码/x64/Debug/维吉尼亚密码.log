@@ -1,0 +1,4 @@
+﻿  维吉尼亚密码源.cpp
+C:\Users\Hans\source\repos\维吉尼亚密码\维吉尼亚密码\维吉尼亚密码源.cpp(30,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Hans\source\repos\维吉尼亚密码\维吉尼亚密码\维吉尼亚密码源.cpp(27,7): warning C4102: “un”: 未引用的标签
+  维吉尼亚密码.vcxproj -> C:\Users\Hans\source\repos\维吉尼亚密码\x64\Debug\维吉尼亚密码.exe

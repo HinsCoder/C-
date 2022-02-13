@@ -1,0 +1,13 @@
+﻿  C语言书P336例题源.cpp
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(233,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,9): error C3873: “0x201c”: 不允许将此字符作为标识符的第一个字符
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,9): error C2065: ““”: 未声明的标识符
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,21): error C2065: “d”: 未声明的标识符
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,30): error C2065: “d”: 未声明的标识符
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,40): error C2017: 非法的转义序列
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,41): error C3872: “0x201d”: 此字符不允许在标识符中使用
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,39): error C2065: “d”: 未声明的标识符
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,41): error C2146: 语法错误: 缺少“)”(在标识符“n””的前面)
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,41): error C2146: 语法错误: 缺少“;”(在标识符“n””的前面)
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,41): error C2065: “n””: 未声明的标识符
+C:\Users\Hans\source\repos\C语言书P336例题\C语言书P336例题\C语言书P336例题源.cpp(239,55): error C2059: 语法错误:“)”
